@@ -1,0 +1,20 @@
+.radio-buttom-wrapper {
+	display: block;
+	width: 27px;/*Задать высоту (set the height of) Radio background*/
+	height: 27px;/*Задать ширину (set the width of) Radio background*/
+	background: url(path to image) no-repeat;
+	cursor: pointer;
+}
+.radio-buttom-active {
+	background: url(path to active image) no-repeat;
+}
+.checkbox-wrapper {
+	display: block;
+	width: 24px;/*Задать высоту (set the height of) Checkbox background*/
+	height: 28px;/*Задать ширину (set the width of) Checkbox background*/
+	background: url(path to image) no-repeat;
+	cursor: pointer;
+}
+.check-buttom-active {
+	background: url(path to active image) no-repeat;
+}
